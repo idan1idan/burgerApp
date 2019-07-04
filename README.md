@@ -1,4 +1,4 @@
-##INFO
+## INFO
 This is a project that I created to learn react and its features
 
 
